@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/homework20React/static/css/main.b22c9327.css",
+    "main.js": "/homework20React/static/js/main.210888f3.js",
+    "static/media/ItsSoBad.png": "/homework20React/static/media/ItsSoBad.f2704d60bd6f44555542.png",
+    "static/media/MTG.png": "/homework20React/static/media/MTG.4c9822b02b416d780e20.png",
+    "static/media/Turtlebackgorund.jpg": "/homework20React/static/media/Turtlebackgorund.c41feb19af9223b669bc.jpg",
+    "static/media/profilePic.jpg": "/homework20React/static/media/profilePic.e463e9916ec858054754.jpg",
+    "static/media/MattsResume.pdf": "/homework20React/static/media/MattsResume.6a36b95164a7d70951cc.pdf",
+    "index.html": "/homework20React/index.html",
+    "main.b22c9327.css.map": "/homework20React/static/css/main.b22c9327.css.map",
+    "main.210888f3.js.map": "/homework20React/static/js/main.210888f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b22c9327.css",
+    "static/js/main.210888f3.js"
+  ]
+}
