@@ -9,8 +9,8 @@ function Footer() {
           <a href="https://github.com/MfischerTurtle?tab=repositories" target="_blank" rel="noreferrer">
             Matthew Fischer
           </a>
-         
-          <a
+          {" "}
+         <a
             href="https://www.linkedin.com/in/kungfu-turtle-147740267/"
             target="_blank" rel="noreferrer"
           >

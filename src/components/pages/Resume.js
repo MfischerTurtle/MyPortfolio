@@ -7,7 +7,7 @@ function Resume() {
           About Me
         </h1>
         <p class='resTop'>
-           is my old resume for now new updated vision comming soon</p>
+           this my old resume for now new updated vision comming soon</p>
       <iframe title="resume" src={myResume} width='100%' height='1150px'></iframe>
     </div>
   );
