@@ -74,10 +74,10 @@
   
   header h1 {
     font-weight: bold;
-    margin: 0;
+    margin-left: 22px;
     font-size: 36px;
     color: #0E5259;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-shadow: 0 0 10px rgba(80, 3, 115, 0.5);
   }
   
   
