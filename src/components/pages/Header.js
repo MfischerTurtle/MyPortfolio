@@ -23,7 +23,10 @@ function Header(props) {
         <div className="hero-cta">
           <h2>Welcome</h2>
           <p>
-            Welcome to Matthew Fischer Portfolio Page .
+           To  
+          </p>
+          <p>
+  Matthew Fischer Portfolio Page .
           </p>
         </div>
       </section>

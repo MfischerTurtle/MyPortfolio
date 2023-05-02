@@ -616,7 +616,11 @@
     color: #0E5259;
     display: inline-block;
   }
-  
+  .turtle-img{
+    max-width: 10%;
+    height: auto;
+    margin: auto;
+  }
   .logo:hover {
     color: #328C83;
     opacity: 0.5;
