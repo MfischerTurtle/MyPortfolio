@@ -3,7 +3,7 @@ import React from "react";
 function Project(props) {
   return (
     <div>
-      <div>
+      <div class="card-flex">
         {props.projects.map((project) => (
           <div class="card-holder">
             <div className="card">

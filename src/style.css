@@ -12,7 +12,7 @@
   
   :root {
     /*main colors */
-    --primary-color: #0bcd2e;
+    --primary-color: #000000;
     --secondary-color: #30a72c;
     --tertiary-color: #fcfefe;
   }
@@ -31,7 +31,6 @@
   }
   body {
     /* more on this crazy alphanumerical value in a minute! */
-    background-image:url(./assests/pics/Turtlebackgorund.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -171,11 +170,11 @@
   /*Intro*/
   .intro p {
     line-height: 1.7;
-    color: #28ed05;
+    color: #000000;
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
   }
   
   .intro-info {
@@ -193,9 +192,11 @@
   .intro-img img {
     max-width: 100%;
     height: auto;
-    margin-left: 5px;
+    margin-left: 135px;
   }
-  
+  .card-flex{
+    display: flex
+  }
   .intro-text {
     flex: 12;
   }
@@ -627,13 +628,16 @@
   
   /* extra titles stylings */
   .section-title {
-    font-size: 48px;
-    color: #fd0303;
+   
     border-bottom: 3px solid;
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
+    font-style: italic;
+    font-size: 55px;
+    color: #09a2b3;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   
   .primary-border {

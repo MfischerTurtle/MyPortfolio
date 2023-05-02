@@ -16,6 +16,14 @@ function Footer() {
           >
             LinkedIn
           </a>
+          {" "}
+          <a
+            href="https://github.com/MfischerTurtle"
+            target="_blank" rel="noreferrer"
+          >
+            Github
+          </a>
+          
         </p>
       </div>
     </footer>
