@@ -6,6 +6,7 @@ import Contact from './pages/Contact';
 import Header from './pages/Header'
 import Footer from './pages/Footer';
 import SplashPage from './pages/SplashPage';
+import '../../src/style.css'
 
 
 export default function PortfolioContainer() {

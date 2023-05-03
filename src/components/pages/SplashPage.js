@@ -1,5 +1,5 @@
 import React from 'react';
-import TurtleHello from '../../assests/pics/HelloTurtle.jpg'
+import TurtleHello from '../../assests/pics/HelloTurtle.png'
 function SplashPage() {
     return (
       <section id="about-me" className="my-5 intro">

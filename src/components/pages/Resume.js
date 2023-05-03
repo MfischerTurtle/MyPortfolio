@@ -8,7 +8,7 @@ function Resume() {
         </h1>
         <p class='resTop'>
            this my old resume for now new updated vision comming soon</p>
-      <iframe title="resume" src={myResume} width='100%' height='1150px'></iframe>
+      <iframe title="resume" src={myResume} width='50%' height='1150px' class='resume'></iframe>
     </div>
   );
 }

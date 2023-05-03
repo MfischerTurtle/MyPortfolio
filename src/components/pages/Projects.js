@@ -8,31 +8,11 @@ function Project(props) {
           <div class="card-holder">
             <div className="card">
               <div className="card-image">
-                <figure>
-                  <img src={project.image} style={{width:"35%"}} alt="Placeholder image" />  
-                </figure>
+                  <img src={project.image} style={{width:"100%"}} alt="Placeholder image" />  
               </div>
               <div className="card-content">
-                <div className="media">
-                  <div className="media-left"></div>
-                  <div className="media-content">
-                    <p className="title is-4" key={project.id}>
-                      {project.title}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="content has-text-left">
-                  {project.description}
-                  <br />
-                  <br />
-                  <div className="content is-family-code">
-                    Languages: {project.languages}
-                    <br />
-                    NPM Packages: {project.packages}
-                  </div>
                   <div className="card">
-                    <footer className="card-footer">
+                    <footer class='card-footer' className="card-footer">
                       <a
                         href={project.repo}
                         className="card-footer-item"
@@ -53,7 +33,7 @@ function Project(props) {
                 </div>
               </div>
             </div>
-          </div>
+          
         ))}
       </div>
     </div>
