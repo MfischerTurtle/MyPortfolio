@@ -21,7 +21,7 @@ const projects = [
     image: imgTw0,
     description: "Allows you to edit and post blogs. You can also leave comments on your own blog or the blogs of others.",
     repo: "https://github.com/MtgGroupProject/DeckBuilders",
-    live: "https://floating-thicket-72381.herokuapp.com/",
+    live: "https://mtggroupproject.github.io/DeckBuilders/",
   },
 ];
 
