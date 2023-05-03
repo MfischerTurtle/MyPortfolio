@@ -3,11 +3,11 @@ import React from "react";
 function Project(props) {
   return (
     <div>
-      <div class="card-flex">
+      <div className="card-flex">
         {props.projects.map((project) => (
-          <div class="card-holder">
+          <div className="card-holder" key={project.id}>
             <div className="card">
-              <div className="card-image">
+              <div class="card-image">
                   <img src={project.image} style={{width:"100%"}} alt="Placeholder image" />  
               </div>
               <div className="card-content">
