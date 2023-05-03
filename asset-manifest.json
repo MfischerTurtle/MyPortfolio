@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/homework20React/static/css/main.b22c9327.css",
-    "main.js": "/homework20React/static/js/main.210888f3.js",
-    "static/media/ItsSoBad.png": "/homework20React/static/media/ItsSoBad.f2704d60bd6f44555542.png",
-    "static/media/MTG.png": "/homework20React/static/media/MTG.4c9822b02b416d780e20.png",
-    "static/media/Turtlebackgorund.jpg": "/homework20React/static/media/Turtlebackgorund.c41feb19af9223b669bc.jpg",
-    "static/media/profilePic.jpg": "/homework20React/static/media/profilePic.e463e9916ec858054754.jpg",
-    "static/media/MattsResume.pdf": "/homework20React/static/media/MattsResume.6a36b95164a7d70951cc.pdf",
-    "index.html": "/homework20React/index.html",
-    "main.b22c9327.css.map": "/homework20React/static/css/main.b22c9327.css.map",
-    "main.210888f3.js.map": "/homework20React/static/js/main.210888f3.js.map"
+    "main.css": "/MyPortfolio/static/css/main.e497521b.css",
+    "main.js": "/MyPortfolio/static/js/main.8ec9b65f.js",
+    "static/media/MTG.png": "/MyPortfolio/static/media/MTG.837e3659230cbb677926.png",
+    "static/media/ItsSoBad.png": "/MyPortfolio/static/media/ItsSoBad.7e5ddfe64572e3bd8554.png",
+    "static/media/profilePic.jpg": "/MyPortfolio/static/media/profilePic.e463e9916ec858054754.jpg",
+    "static/media/TimeWellSpent.png": "/MyPortfolio/static/media/TimeWellSpent.f16579bcd30a94e9dd01.png",
+    "static/media/HelloTurtle.png": "/MyPortfolio/static/media/HelloTurtle.cdc6ab13c38fd83a8ebd.png",
+    "static/media/MattsResume.pdf": "/MyPortfolio/static/media/MattsResume.6a36b95164a7d70951cc.pdf",
+    "static/media/DayPlaner.png": "/MyPortfolio/static/media/DayPlaner.71a826e7db32c42c8985.png",
+    "static/media/JavaQuiz.png": "/MyPortfolio/static/media/JavaQuiz.a25758fb85bf2c77e731.png",
+    "static/media/PasswordGen.png": "/MyPortfolio/static/media/PasswordGen.164b4f6f3e15714c08a5.png",
+    "static/media/NoteTaker.png": "/MyPortfolio/static/media/NoteTaker.938480d37490e4e80a46.png",
+    "static/media/WeatherTracker.png": "/MyPortfolio/static/media/WeatherTracker.7bd8c5c307c52fbb8e6a.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.e497521b.css.map": "/MyPortfolio/static/css/main.e497521b.css.map",
+    "main.8ec9b65f.js.map": "/MyPortfolio/static/js/main.8ec9b65f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b22c9327.css",
-    "static/js/main.210888f3.js"
+    "static/css/main.e497521b.css",
+    "static/js/main.8ec9b65f.js"
   ]
 }
