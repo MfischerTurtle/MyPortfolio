@@ -1,21 +1,26 @@
 import React from "react";
 import Project from "./Projects";
+import imgZero from "../../assests/pics/TimeWellSpent.png";
 import imgOne from "../../assests/pics/ItsSoBad.png"
 import imgTw0 from "../../assests/pics/MTG.png"
+import imgThree from "../../assests/pics/NoteTaker.png"
+import imgFour from "../../assests/pics/WeatherTracker.png"
+import imgFive from "../../assests/pics/DayPlaner.png"
+import imgSix from "../../assests/pics/JavaQuiz.png"
+
+
 const projects = [
   {
     id: 0,
-
-    image: imgOne,
-    repo: "https://github.com/Three-SQLteers/MovieApp",
-    live: " https://so-bad-its-good.herokuapp.com",
+    image: imgZero,
+    repo: "https://github.com/TotallyReactingNodeTurtles/timewellspent",
+    live: "http://www.time-well-spent.com/",
   },
   {
     id: 1,
-  
-    image: imgTw0, 
-    repo: "https://github.com/MtgGroupProject/DeckBuilders",
-    live: "https://mtggroupproject.github.io/DeckBuilders/",
+    image: imgOne,
+    repo: "https://github.com/Three-SQLteers/MovieApp",
+    live: " https://so-bad-its-good.herokuapp.com",
   },
   {
     id: 2,
@@ -23,27 +28,34 @@ const projects = [
     image: imgTw0, 
     repo: "https://github.com/MtgGroupProject/DeckBuilders",
     live: "https://mtggroupproject.github.io/DeckBuilders/",
-  }, 
+  },
   {
     id: 3,
   
-    image: imgTw0, 
-    repo: "https://github.com/MtgGroupProject/DeckBuilders",
-    live: "https://mtggroupproject.github.io/DeckBuilders/",
-  },
+    image: imgThree, 
+    repo: "https://github.com/MfischerTurtle/Notehomework",
+    live: "https://notehomework5235.herokuapp.com/",
+  }, 
   {
     id: 4,
   
-    image: imgTw0, 
-    repo: "https://github.com/MtgGroupProject/DeckBuilders",
-    live: "https://mtggroupproject.github.io/DeckBuilders/",
-  }, 
+    image: imgFour, 
+    repo: "https://github.com/MfischerTurtle/WeatherTracker",
+    live: "https://mfischerturtle.github.io/WeatherTracker/",
+  },
   {
     id: 5,
   
-    image: imgTw0, 
-    repo: "https://github.com/MtgGroupProject/DeckBuilders",
-    live: "https://mtggroupproject.github.io/DeckBuilders/",
+    image: imgFive, 
+    repo: "https://github.com/MfischerTurtle/DayPlanner",
+    live: "https://mfischerturtle.github.io/DayPlanner/",
+  }, 
+  {
+    id: 6,
+  
+    image: imgSix, 
+    repo: "https://github.com/MfischerTurtle/JavaScriptQuiz",
+    live: "https://mfischerturtle.github.io/JavaScriptQuiz/",
   },
 ];
 
