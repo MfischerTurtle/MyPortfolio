@@ -5,7 +5,7 @@ import '../../src/style.css'
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul bg-orange-100 className="nav nav-tabs">
+    <ul  className="nav nav-tabs">
       <li className="nav-item">
         <a
           href="#Portolio"
@@ -23,7 +23,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('About')}
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
-          backgroud 
+          
         >
           About
         </a>

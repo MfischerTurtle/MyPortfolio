@@ -7,6 +7,7 @@ import imgThree from "../../assests/pics/NoteTaker.png"
 import imgFour from "../../assests/pics/WeatherTracker.png"
 import imgFive from "../../assests/pics/DayPlaner.png"
 import imgSix from "../../assests/pics/JavaQuiz.png"
+import imgSeven from "../../assests/pics/PasswordGen.png"
 
 
 const projects = [
@@ -56,6 +57,13 @@ const projects = [
     image: imgSix, 
     repo: "https://github.com/MfischerTurtle/JavaScriptQuiz",
     live: "https://mfischerturtle.github.io/JavaScriptQuiz/",
+  },
+  {
+    id: 7,
+  
+    image: imgSeven, 
+    repo: "https://github.com/MfischerTurtle/PasswordGenerator",
+    live: "https://mfischerturtle.github.io/PasswordGenerator/",
   },
 ];
 

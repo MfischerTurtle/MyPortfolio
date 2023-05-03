@@ -4,10 +4,8 @@ function Resume() {
   return (
     <div> 
       <h1 id="about" className="section-title primary-border">
-          About Me
+          My Resume
         </h1>
-        <p class='resTop'>
-           this my old resume for now new updated vision comming soon</p>
       <iframe title="resume" src={myResume} width='50%' height='1150px' class='resume'></iframe>
     </div>
   );
