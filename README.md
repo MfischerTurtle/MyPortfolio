@@ -17,7 +17,7 @@ Being a web developer means being part of a community. We all need a place to sh
 * [Usage](#usage)
 
 ## License 
-This project is license under MIT ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+This project is license under MIT ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Installation 
