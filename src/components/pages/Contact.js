@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 //changes in the state varible changes in the dom
 import {validateEmail} from '../../utils/helpers'
-import emailjs from 'emailjs-com';
+
 
 function Contact() {
-  emailjs.init('user_xggWJPgNCSawp_uj6QEGo');
+  
   // Here we set two state variables for firstName and lastName using `useState`
   const [fullName, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -49,24 +49,7 @@ function Contact() {
       return;
     }
   
-    try {
-      const response = await emailjs.send(
-        'service_1m8fw0g', // Replace with your service ID from EmailJS
-        'template_c56ydyh', // Replace with your template ID from EmailJS
-        { name: fullName, email: email, text: text },
-        // 'user_xggWJPgNCSawp_uj6QEGo'
-        
-      );
-  
-      if (response.status === 200) {
-        setMessage('Message has been sent, thank you');
-      } else {
-        setMessage('Error sending message, please try again');
-      }
-    } catch (error) {
-      console.error('Error sending message:', error);
-      setMessage('Error sending message, please try again');
-    }
+   
   };
   
 
