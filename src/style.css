@@ -179,7 +179,8 @@
   /*Intro*/
   .intro p {
     line-height: 1.7;
-    color: #000000;
+    color: #51867c;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
