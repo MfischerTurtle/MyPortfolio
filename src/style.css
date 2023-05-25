@@ -151,21 +151,16 @@
   /* Hero Style End */
   
   /* hero-cta start */
-  .hero-cta {
-    width: 35%;
-    text-align: center;
-    margin: 3.5%;
-    color: #fff;
-    font-size: 18px;
-    line-height: 1.2;
-  }
   
-  .hero-cta h2 {
+  
+  .hero-cta {
     font-style: italic;
     font-size: 55px;
     color: #0E5259;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
   }
+  
   
   .hero-cta p {
     font-size: 25px;
@@ -186,6 +181,17 @@
     margin: 0 auto;
 
   }
+
+  .ulcontact {
+    line-height: 1.7;
+    color: #51867c;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
   
   .intro-info {
     flex: 2 70%;
